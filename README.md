@@ -1,4 +1,4 @@
 # DjangoProject
-My First Web in Django
+Simple web in Django
 
 ![Alt text](image.png)
