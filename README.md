@@ -1,4 +1,4 @@
 # DjangoRoutes
-Django Practice Project
+My First Web in Django
 
 ![Alt text](image.png)
